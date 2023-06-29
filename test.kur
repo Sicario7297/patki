@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Hello maika ti deba" >> /home/dallas/kur.txt
